@@ -1,2 +1,2 @@
-# Evie.cz external content
+# External content
 Temporary content created for internal user projects.
