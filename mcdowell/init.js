@@ -1,1 +1,7 @@
-alert("Test 123");
+$(document).ready(function() {
+    setTimeout(function() {
+
+      alert("Page loaded");
+      
+    }, 300);
+}
