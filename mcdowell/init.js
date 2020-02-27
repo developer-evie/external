@@ -2,7 +2,7 @@ $(document).ready(function() {
     setTimeout(function() {
 
       //testing in real time
-      alert("testing in real time, change");
+      alert("testing in real time, change1");
       
     }, 300);
 });
