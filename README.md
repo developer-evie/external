@@ -1,2 +1,2 @@
 # Evie.cz external content
-Content created for user projects.
+Content created for internal user projects.
