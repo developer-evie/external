@@ -1,7 +1,7 @@
 $(document).ready(function() {
     setTimeout(function() {
 
-      alert("operation done");
+      alert("test");
       
     }, 300);
 });
