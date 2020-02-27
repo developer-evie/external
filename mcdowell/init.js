@@ -1,7 +1,8 @@
 $(document).ready(function() {
     setTimeout(function() {
 
-      alert("test");
+      //testing in real time
+      alert("testing in real time");
       
     }, 300);
 });
