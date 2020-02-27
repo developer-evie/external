@@ -1,7 +1,7 @@
-$(document).ready(function() { 
+$(document).ready(function() {
     setTimeout(function() {
 
-      alert("Page loaded");
+      alert("we are trying get it to work");
       
     }, 300);
 });
